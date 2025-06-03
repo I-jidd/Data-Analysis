@@ -1,0 +1,11 @@
+Date,Product,Category,Region,Units Sold,Unit Price,Revenue,Profit
+2025-01-01,Widget A,Electronics,North,50,20,1000,200
+2025-01-02,Gadget B,Accessories,South,30,15,450,90
+2025-01-03,Widget C,Electronics,East,70,25,1750,350
+2025-01-04,Gadget A,Accessories,West,20,10,200,50
+2025-01-05,Widget B,Electronics,North,60,22,1320,264
+2025-01-06,Gadget C,Accessories,South,40,18,720,144
+2025-01-07,Widget A,Electronics,East,80,20,1600,320
+2025-01-08,Gadget B,Accessories,West,25,15,375,75
+2025-01-09,Widget C,Electronics,North,90,25,2250,450
+2025-01-10,Gadget A,Accessories,South,35,10,350,70
